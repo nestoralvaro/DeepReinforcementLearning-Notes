@@ -12,8 +12,8 @@ Good to get a good understanding of basic RL, especially for the simpler toy pro
 It seems the assignments are no longer being graded and there is no current cohort. The assignments are also in Java
 
 
-# Videos:
+# Videos
 
-[David Silver's lectures on YouTube](https://www.youtube.com/playlist?list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT).
+[David Silver's lectures on YouTube](https://www.youtube.com/playlist?list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
 
 
